@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Corsy is minimal api that proxys requests and 
+Corsy is minimal api that proxy requests and 
 adds Access-Control-Allow-Origin header to response
 
 ### Built With
